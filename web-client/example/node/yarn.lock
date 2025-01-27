@@ -2,8 +2,10 @@
 # yarn lockfile v1
 
 
-"@nimiq/core@link:../../dist":
-  version "2.0.0-next.rc.2"
+"@nimiq/core@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@nimiq/core/-/core-2.0.5.tgz#055407407eb5a3016183460b61c552936d3f989c"
+  integrity sha512-fqTXjPqU3+uCa0W/3X//grMzu96eyyFdJR+aaZ5jlZrEah/Pb/ERjHuTgsC3y0TBBuYT8ohTDHktvs+p8MKPPA==
   dependencies:
     comlink "^4.4.1"
     websocket "^1.0.34"
